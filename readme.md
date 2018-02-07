@@ -6,4 +6,4 @@ Of course, you can just append `?_embed` onto your request to return a ton of `f
 
 ## More
 
-[Here's a litte post]("http://stephenscaff.com/articles/2018/02/add-featured-images-to-wordpress-api/") on the matter.
+[Here's a little post](http://stephenscaff.com/articles/2018/02/add-featured-images-to-wordpress-api/) on the matter.
